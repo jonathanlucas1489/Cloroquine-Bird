@@ -56,9 +56,22 @@ body {
     align-items: center;
 }
 
-.cloro .corpo {
-    height: 40px;
-    width: 110px;
+.corpo {
     border-left: 2px solid black;
     border-right: 2px solid black;
+    border-bottom: 2px solid black;
+}
+
+.cloroquine {
+    height: 250px;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+}
+
+.prog {
+    font-family: 'Games';
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    font-size: 70px;
 }
