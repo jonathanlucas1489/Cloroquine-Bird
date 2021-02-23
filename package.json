@@ -2,7 +2,7 @@
   "name": "clorobird",
   "version": "1.0.0",
   "description": "A version of Flappy Bird using a joke with our president ignorance about Covid-19 treatment. ",
-  "main": "index.js",
+  "main": "index.js", 
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
