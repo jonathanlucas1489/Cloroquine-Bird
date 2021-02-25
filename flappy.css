@@ -76,7 +76,9 @@ body {
 .prog {
     font-family: 'Games';
     position: absolute;
+    color: blanchedalmond;
     top: 10px;
     left: 10px;
     font-size: 70px;
+    z-index: 1;
 }
